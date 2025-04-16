@@ -29,24 +29,24 @@
 
 ### 🧠 Control Transfer Instructions
 
-- [?] `JAL` – Jump and Link
-- [?] `JALR` – Jump and Link Register
-- [?] `BEQ` – Branch if Equal
-- [?] `BNE` – Branch if Not Equal
-- [?] `BLT` – Branch if Less Than
-- [?] `BGE` – Branch if Greater Than or Equal
-- [?] `BLTU` – Branch if Less Than Unsigned
-- [?] `BGEU` – Branch if Greater Than or Equal Unsigned
+- [x] `JAL` – Jump and Link
+- [x] `JALR` – Jump and Link Register
+- [x] `BEQ` – Branch if Equal
+- [x] `BNE` – Branch if Not Equal
+- [x] `BLT` – Branch if Less Than
+- [x] `BGE` – Branch if Greater Than or Equal
+- [x] `BLTU` – Branch if Less Than Unsigned
+- [x] `BGEU` – Branch if Greater Than or Equal Unsigned
 
 ### 💾 Memory Instructions
 
-- [?] `LB` – Load Byte
-- [?] `LH` – Load Halfword
+- [x] `LB` – Load Byte
+- [x] `LH` – Load Halfword
 - [x] `LW` – Load Word
-- [?] `LBU` – Load Byte Unsigned
-- [?] `LHU` – Load Halfword Unsigned
-- [?] `SB` – Store Byte
-- [?] `SH` – Store Halfword
+- [x] `LBU` – Load Byte Unsigned
+- [x] `LHU` – Load Halfword Unsigned
+- [x] `SB` – Store Byte
+- [x] `SH` – Store Halfword
 - [x] `SW` – Store Word
 
 ### 🛠️ Upper Immediate Instructions
@@ -57,4 +57,4 @@
 ### 🧾 Environment Call (Not supported)
 
 - [ ] `ECALL` – Environment Call (used for system calls)
-- [] `EBREAK`- Environment Break
+- [ ] `EBREAK`- Environment Break
